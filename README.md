@@ -2,7 +2,7 @@
 
 ## Why, Hello there! 👋
 
-My name is Thiruvenkadam Radhakrishnan<a link="#myfootnote1"><sup>[1]</a>. I am currently doing my Master's from University of Illinois, at Chicago. 
+My name is Thiruvenkadam Radhakrishnan [<sup>1</sup>]("#myfootnote1"). I am currently doing my Master's from University of Illinois, at Chicago. 
 <br></br>
 <h1> <img src="studying.png" alt="Kitten"
 	title="scroll wizard" width="50" height="50" />  I am currently studying</h1>
@@ -24,7 +24,6 @@ More details about my coursework here.
 <h1>I am working on</h1>
 
 - Adversarial poisoning of datasets for classical machine learning algorithms, as a research assistant under [Prof. Sidiropoulos](https://sidiropo.people.uic.edu/)
-
 - Creating the autonomy subsystem for a lunar bot as a part of the UIC RMC group for [NASA Lunabotics](https://www.nasa.gov/offices/education/centers/kennedy/technology/nasarmc.html)
 - Exploring the arena of deep learning models with some personal projects
 
