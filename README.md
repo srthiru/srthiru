@@ -11,8 +11,6 @@ I am also working as a Research assistant for [Prof. Sidiropoulos](https://sidir
  💬 Ask me about:  Deep Learning, Machine Learning, Computational Geometry, Cloud Deployment
  
  📫 Reach me at: [@](mailto:srthiruvenkadam@gmail.com), [L](https://www.linkedin.com/in/srthiruvenkadam/)
- 
- 😄 Pronouns: He/Him	
 
 
 
